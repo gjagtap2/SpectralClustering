@@ -28,9 +28,9 @@ The following packages are needed:
 
 To install the python libraries in R, run the following command:
 
-`py_install("package")`
+`py_install("library")`
 
-The following packages are needed:
+The following libraries are needed:
 - numpy
 - matplotlib
 - sklearn
