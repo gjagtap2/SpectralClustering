@@ -48,4 +48,4 @@ The tutorial gives a brief introduction to the basic graph theory needed to unde
 There is an examples of spectral clustering on an arbitrary dataset in R, and image segmenation in Python.
 The tutorial concludes by giving a brief summary, reviews advantages and disadvantages of this method, and covers real world applications.
 
-
+You can access this page on rpubs at: https://rpubs.com/gargeejagtap/SpectralClustering
